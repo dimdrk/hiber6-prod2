@@ -1,1 +1,1 @@
-# hiber6-prod2
+JPA / Hibernate Model Desgn and CRUD
